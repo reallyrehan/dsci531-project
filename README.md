@@ -1,7 +1,7 @@
 # README
 
 ## Data
-[IEMOCAP](https://sail.usc.edu/iemocap/iemocap_release.htm)
+[IEMOCAP](https://sail.usc.edu/iemocap/iemocap_release.htm) | Not Public - Drive Link Shared on [Piazza](https://piazza.com/class/kxzohoukmr87ms?cid=260)
 
 ## Code
 ### Data Preprocessing
